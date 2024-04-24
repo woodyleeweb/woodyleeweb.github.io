@@ -4,3 +4,38 @@ body{
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     font-family: 'Noto Serif TC',sans-serif;
 }
+
+div p{
+    font-family: 'Noto Serif TC',sans-serif;
+}
+section div ul li{
+    font-family: 'Noto Serif TC',sans-serif;
+}
+.subheading{
+    font-family: 'Noto Serif TC',sans-serif !important;
+}
+
+a{
+    color: orange !important;
+}
+a:hover{
+    color: bisque !important;
+}
+nav a{
+    color:aliceblue !important;
+}
+
+.img-wd{
+    width: 100%;
+    height: auto;
+}
+
+th p{
+    font-size: 2em;
+    text-align: center;
+}
+td p{
+    text-align: center;
+    font-size: 2em;
+    top: 2px;
+}
