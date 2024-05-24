@@ -67,3 +67,9 @@ nav {
     width: 11px;
     content: "";
 }
+.nice{
+    color: rgb(219, 18, 18);
+}
+.nice:hover{
+    color: rgb(231, 79, 79);
+}
