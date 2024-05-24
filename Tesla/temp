@@ -1,0 +1,19 @@
+<!--正反方意見-->
+    <div class="row " id="Opinion">
+        <div class="col-6 border-end border-1 p-5">
+            <h3 class="text-danger">反方意見</h3>
+            <p>高成本和高故障率：製造人形機器人是一項昂貴且複雜的工程。Optimus的開發成本高，且其高故障率可能導致維護和修復成本居高不下。這使得一些人質疑是否值得投入資金。</p>
+        </div>
+        <div class="col-6 p-5">
+            <h3 class="text-success">正方意見</h3>
+            <p>技術創新：Optimus展示了特斯拉在機器人領域的技術實力。它搭載了與特斯拉汽車同源的最新科技，包括完全自動駕駛能力（FSD）電腦以及Tesla
+                Vision視覺神經網路。這種技術創新有助於推動人形機器人的發展。
+                多功能性：Optimus不僅可以行走、上下樓梯、下蹲，還可以單手舉起一台鋼琴。未來，它可以幫助做飯、修剪草坪，甚至替代人類從事枯燥和危險的工作這種多功能性將有助於提高生產效率和改善人類生活。</p>
+        </div>
+    </div>
+    <hr>
+    <!--資料來源-->
+    <div id="Source">
+        <h2 class="text-secondary">資料來源</h2>
+        <p>https://youtu.be/XiQkeWOFwmk</p>
+    </div>
