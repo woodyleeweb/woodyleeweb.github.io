@@ -18,6 +18,11 @@ nav {
     text-align: center;
 }
 
+.motext{
+    line-height: 2.4;
+    font-size: 18px;
+}
+
 #Video {
     text-align: center;
 }
