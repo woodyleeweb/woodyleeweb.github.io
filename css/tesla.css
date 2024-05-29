@@ -75,7 +75,9 @@ nav {
 }
 
 .textSet{
-    max-height: 50vh; /* 設定最大高度 */
+    max-height: 80vh; /* 設定最大高度 */
+    min-height: 10vh;
+    min-width: 300px;
     overflow-y: auto; /* 允許垂直滾動 */
     padding: 10px;
     box-sizing: border-box;
